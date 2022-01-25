@@ -1,6 +1,6 @@
 {
   "name": "web-speech-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web API for text to speech synthesis and more..",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/kkchaitu/"
+    "url": "http://github.com/kkchaitu/web-speech"
   },
   "keywords": [
     "text-to-speech",
